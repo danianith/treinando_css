@@ -1,0 +1,1 @@
+Treinando responsividade e transition em CSS.
